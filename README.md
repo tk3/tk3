@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tk3
 - 👀 I’m interested in Rust
-- 🌱 I’m currently learning Rus
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
