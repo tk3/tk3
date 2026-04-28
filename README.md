@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tk3
-- 👀 I’m interested in Rust
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in F#
+- 🌱 I’m currently learning F#
+
 
 <!---
 tk3/tk3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
